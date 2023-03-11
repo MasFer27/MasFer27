@@ -4,14 +4,10 @@
 <table width="100%"> 
   <tr>
   <td width="50%">
-         
-&nbsp; <br> <div align=center><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&duration=4000&pause=1000&center=true&vCenter=true&color=D27800&width=652&lines=Informatics+Egineering+Students;Competitive+Programmer;Always+Learning+New+Things;Web+Development" alt="Typing SVG" /><br><img src="assets/img/Front_End.gif" width=35%></div>
-    
+    <br> <div align=center><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&duration=4000&pause=1000&center=true&vCenter=true&color=D27800&width=652&lines=Informatics+Egineering+Students;Competitive+Programmer;Always+Learning+New+Things;Web+Development" alt="Typing SVG" /><br><img src="assets/img/Front_End.gif" width=50%></div>
   </td>
    <td width="50%">
-
-<br> <div align=center><img src="assets/img/Connect-with-me.gif"><div><a href="https://www.instagram.com/ferr227_/" target="_blank"><img src="assets/img/ig.png" width=8%></a>
-     
+<div align=center><img src="assets/img/Connect-with-me.gif" width=75%><div><a href="https://www.instagram.com/ferr227_/" target="_blank"><img src="assets/img/ig.png" width=10%></a>
   </td>
   </table>
   
