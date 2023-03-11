@@ -10,7 +10,7 @@
   </td>
    <td width="50%">
 
-<br> <div align=center><img src="assets/img/Connect-with-me.gif"><div><a href="https://www.instagram.com/ferr227_/" target=_blank><img src="assets/img/ig.png" width=8%></a>
+<br> <div align=center><img src="assets/img/Connect-with-me.gif"><div><a href="https://www.instagram.com/ferr227_/"><img target=_blank src="assets/img/ig.png" width=8%></a>
      
   </td>
   </table>
