@@ -1,21 +1,10 @@
-### Hi there 👋
-
-<!--
-**MasFer27/MasFer27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<picture>
+<div align = center> <img src="assets/img/line-neon.gif"> </div>
+<div align = center><img src="assets/img/about_me.gif" width=40%></div>
+<div align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> , I'm Ferli </div>
+<div align = center> <img src="assets/img/line-neon.gif"> </div>
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&duration=4000&pause=1000&center=true&vCenter=true&color=D27800&width=652&lines=Informatics+Egineering+Students;Competitive+Programmer;Always+Learning+New+Things;Web+Development" alt="Typing SVG" /></p>
+<div align=center><picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MasFer27/MasFer27/main/assets/snake-game/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MasFer27/MasFer27/main/assets/snake-game/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MasFer27/MasFer27/main/assets/snake-game/github-contribution-grid-snake.svg">
-</picture>
+</picture></div>
