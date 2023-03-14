@@ -1,4 +1,4 @@
-<div align = center><img src="assets/img/about_me.gif" width=40%></div>
+<div align = center><im src="assets/img/about_me.gif" width=40%></div>
 <div align="center"><h1> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> , I'm Ferli </h1></div>
 
 <table width="100%"> 
